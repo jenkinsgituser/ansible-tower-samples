@@ -1,5 +1,5 @@
 [WebServers_DEV]
-localhost
+192.168.1.51
 
 [APIServers_DEV]
 xyz
