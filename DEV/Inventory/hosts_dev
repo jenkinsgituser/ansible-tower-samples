@@ -4,8 +4,5 @@
 [APIServers]
 xyz
 
-[WindowsService]
-abc
-
 [DBServers]
 123
