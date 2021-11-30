@@ -1,8 +1,2 @@
 [WebServers]
 192.168.1.51
-
-[APIServers]
-xyz
-
-[DBServers]
-123
